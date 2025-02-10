@@ -54,18 +54,19 @@ Traditional security systems often rely on predefined signatures, known attack p
 methods, which can be insufficient when dealing with new or unknown threats. AI, especially machine
 learning (ML) and deep learning (DL), can enhance detection in several ways: Anomaly detection, zero
 day threat detection and also malware detection.
+
 ## ii.)Reducing Noise;
 It helps filter constant and several alerts based on threat level and risk hence easier
 for defenders to focus on bigger and more threatening advances to the system or company.
 
 ## iii.)Proactive Defense;
-defenders can use AI to support proactive defense through predictive analytics.
+Defenders can use AI to support proactive defense through predictive analytics.
 By analyzing massive datasets, AI models can spot emerging threats and attack patterns before they
 cause harm. AI can forecast the likelihood of specific types of attacks based on historical data and known
 vulnerabilities, helping defenders prepare in advance.
 
 ## iv.)Faster Responses; 
-defenders can use AI to significantly enhance the speed and efficiency of
+Defenders can use AI to significantly enhance the speed and efficiency of
 responses to cybersecurity incidents, helping defenders to act faster, more accurately, and at scale. By
 automating tasks, prioritizing actions, and enabling real-time decision-making, AI helps reduce the time
 it takes to identify, contain, and remediate security threats.
