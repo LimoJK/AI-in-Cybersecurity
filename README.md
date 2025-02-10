@@ -14,9 +14,13 @@ training and governance.” ( source CISO report 2025)
 
 ![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/3d383f96dc492a9cc40ac39cec470ea7cb0f8ec2/Screenshot%202025-02-10%20012804.png)
 
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/dd693b6fe7ef541a8238cc987028c0677b3a4625/Screenshot%202025-02-10%20013547.png)
 
 
 ## How Hackers Use AI
+
+![image alt](
+![image alt](
  ## Highly realistic phishing emails(57%)
 AI can analyze vast amounts of data from social media profiles,
 public records, or previous interactions to create highly personalized phishing emails.
