@@ -19,7 +19,8 @@ training and governance.” ( source CISO report 2025)
 
 ## How Hackers Use AI
 
-![image alt](
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/09c6e3a850dfdf28dde7c67cbb738da400f3b798/Screenshot%202025-02-10%20013615.png)
+
 ![image alt](
  ## Highly realistic phishing emails(57%)
 AI can analyze vast amounts of data from social media profiles,
