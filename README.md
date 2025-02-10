@@ -46,6 +46,9 @@ architecture and the possible loop holes to penetrate the system.
 ![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/8f2f4e211e99a682e5585aadfe8d9e12baee8136/Screenshot%202025-02-10%20013631.png)
 
 ## i.)Detecting threats; 
+
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/35894f3b55ec845b1fed08216e6f6f1a6802ad85/Screenshot%202025-02-10%20013217.png)
+
 One of the primary applications of AI in cybersecurity is improving threat detection.
 Traditional security systems often rely on predefined signatures, known attack patterns or rules-based
 methods, which can be insufficient when dealing with new or unknown threats. AI, especially machine
