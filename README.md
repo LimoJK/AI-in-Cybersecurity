@@ -121,6 +121,9 @@ cases for generative AI, such as developing threat detection rules (43% versus 3
 analyzing data sources (45% versus 28% of other CISOs), conducting incident response and forensic
 investigations , and engaging in proactive threat hunting.
 
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/09dec977dd33fb41340b05ba5073fe850c7e02f3/Screenshot%202025-02-10%20013241.png)
+
+
 
 Cybersecurity has evolved from being a technical concern to a critical aspect of overall business strategy.
 Today, protecting sensitive data, ensuring business continuity, and managing cyber risks are integral to
