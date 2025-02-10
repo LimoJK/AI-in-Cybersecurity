@@ -97,6 +97,8 @@ intensive. While AI offers powerful capabilities for automating tasks, detecting
 security responses, the financial constraints that many organizations face can make it difficult to fully
 leverage these tools.
 
+![imagee alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/6a7c5582916afc87503772442302f2dc09e2fc77/Screenshot%202025-02-10%20013443.png)
+
 ## Recommendation for CISOs and Boards.
 CISOs who regularly engage with the board don’t just strengthen board relationships—these
 interactions also lead to improved collaboration across the organization. CISOs with strong board
