@@ -21,7 +21,6 @@ training and governance.” ( source CISO report 2025)
 
 ![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/09c6e3a850dfdf28dde7c67cbb738da400f3b798/Screenshot%202025-02-10%20013615.png)
 
-![image alt](
  ## Highly realistic phishing emails(57%)
 AI can analyze vast amounts of data from social media profiles,
 public records, or previous interactions to create highly personalized phishing emails.
@@ -43,6 +42,9 @@ In some cases, hackers can study and be able to understand a security system, th
 architecture and the possible loop holes to penetrate the system.
 
 ## How Defenders Use AI
+
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/8f2f4e211e99a682e5585aadfe8d9e12baee8136/Screenshot%202025-02-10%20013631.png)
+
 ## i.)Detecting threats; 
 One of the primary applications of AI in cybersecurity is improving threat detection.
 Traditional security systems often rely on predefined signatures, known attack patterns or rules-based
