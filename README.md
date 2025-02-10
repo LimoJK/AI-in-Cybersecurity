@@ -103,6 +103,9 @@ leverage these tools.
 ![imagee alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/6a7c5582916afc87503772442302f2dc09e2fc77/Screenshot%202025-02-10%20013443.png)
 
 ## Recommendation for CISOs and Boards.
+
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/9c5b925fff569df371fdfba797f3906340483a64/Screenshot%202025-02-10%20013319.png)
+
 CISOs who regularly engage with the board don’t just strengthen board relationships—these
 interactions also lead to improved collaboration across the organization. CISOs with strong board
 connections report particularly robust partnerships with IT operations (82% versus 69% of other CISOs)
@@ -110,11 +113,15 @@ and engineering (74% versus 63% of other CISOs). This could be due to their abil
 communicate the board’s business goals and strategies to more technical teams, helping bridge the gap
 between them and the broader organization.
 
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/9c5b925fff569df371fdfba797f3906340483a64/Screenshot%202025-02-10%20013335.png)
+
 Moreover, CISOs with solid board relationships are often entrusted with more autonomy to explore and
 test new technology investments. They are more likely to have the opportunity to pursue innovative use
 cases for generative AI, such as developing threat detection rules (43% versus 31% of other CISOs),
 analyzing data sources (45% versus 28% of other CISOs), conducting incident response and forensic
 investigations , and engaging in proactive threat hunting.
+
+
 Cybersecurity has evolved from being a technical concern to a critical aspect of overall business strategy.
 Today, protecting sensitive data, ensuring business continuity, and managing cyber risks are integral to
 the health of an organization. As a result, cybersecurity decisions are no longer just in the hands of IT
