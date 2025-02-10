@@ -89,6 +89,9 @@ all forms of malicious activity, but the AI could miss new, evolving threats or 
 it hasn't been trained to recognize. Without human oversight, such gaps may go unnoticed.
 
 ## Budget Issues;
+
+![image alt](https://github.com/LimoJK/AI-in-Cybersecurity/blob/c0c39d626ebab4755d56a98d84363a9977ada0e8/Screenshot%202025-02-10%20013459.png)
+
 Implementing and maintaining AI-driven solutions can be both costly and resource-
 intensive. While AI offers powerful capabilities for automating tasks, detecting threats, and improving
 security responses, the financial constraints that many organizations face can make it difficult to fully
